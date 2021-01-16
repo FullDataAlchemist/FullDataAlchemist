@@ -8,7 +8,6 @@
 - 🙄 In my free time, I look for nothing! I don't have it by the way.
 
 
--->
 <!-- [![website](some image)](http://www. some where .com)
 <a href="http:// some where .com"><img src="http:// some where show image .png" width="100%"></a>
 - ⚡ Fun fact: ...
